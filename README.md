@@ -1,4 +1,4 @@
-- 👋 Hi, the name is Carl Kho is a Symphtern, a multi-awarded student, a product / all-around designer, voice artist and a junior developer.
+- 👋 Hi, the name is Carl Kho is a Sympher who also happens to be a multi-awarded student, a product / all-around designer, voice artist and a junior developer.
 - 👀 I’m interested in making things convenient with code.
 - 🌱 I’m currently learning Computer Vision and A.I.
 - 💞️ I’m looking to collaborate with idea implementation.
